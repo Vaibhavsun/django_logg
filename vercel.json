@@ -21,7 +21,7 @@
         },
         {
             "src":"/(.*)",
-            "dest":"poll/wsgi.py"
+            "dest":"hospital_login/wsgi.py"
         }
     ],
      "rewrites": [
