@@ -58,7 +58,7 @@ MEDIA_URL='/media/'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['C:\\Users\\hp\\Desktop\\Projects\\signup and login using django\\hospital_login\\members\\template'],
+        'DIRS': ['BASE_DIR/members/template'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
