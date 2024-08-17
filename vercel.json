@@ -23,10 +23,7 @@
             "src":"/(.*)",
             "dest":"hospital_login/wsgi.py"
         }
-    ],
-     "rewrites": [
-        {"source": "/(.*)", "destination": "/"}
     ]
-        }
+        
 
 }
